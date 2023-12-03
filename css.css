@@ -218,7 +218,7 @@ body {
 
 @media (min-width: 10px) {
 .neon-button {
-  bottom: 30%;
+  bottom: 25%;
   font-family: monospace;
   font-size: 2rem;
   position: absolute;
